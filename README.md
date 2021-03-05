@@ -1,8 +1,8 @@
-# *ASX Index: 30 Days LSTM Predictions**
+# **ASX Index: 30 Days LSTM Predictions**
 
 ---
 
-## *Introduction**: 
+## **Introduction:**
 
 ---
 
@@ -21,12 +21,17 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
 
 ---
 
-   * Python language
-   * NumPy
-   * Matplotlib
-   * Plotly
-   * Seaborn
-   * Bokeh
+    Python language
+    NumPy
+    Math
+    Matplotlib
+    SYS
+    Warnings
+    Scikit Learn
+    Tensorflow (Keras)
+    Seaborn
+    
+     
 
 ## ** Choice of Data Source and Cleaning:**
 
@@ -38,7 +43,7 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
 
 ### **Cleaning Data**
 
-Created a new dataframe <mark>df_price </mark> dropped null values by <df_Price.dropna(inplace=True)> and checked for null values by <df_Price.dropna(inplace=True)>
+Created a new dataframe *df_price* dropped null values by *df_Price.dropna(inplace=True)* and checked for null values by *df_Price.dropna(inplace=True)*. 
 
 
 

@@ -21,18 +21,17 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
 
 ---
 
-    Python language
-    NumPy
-    Math
-    Matplotlib
-    SYS
-    Warnings
-    Scikit Learn
-    Tensorflow (Keras)
-    Seaborn
+    1) Python language
+    2) NumPy
+    3) Math
+    4) Matplotlib
+    5) SYS
+    6) Warnings
+    7) Scikit Learn
+    8) Tensorflow (Keras)
+    9)Seaborn
     
-     
-
+  
 ## **Choice of Data Source and Cleaning:**
 
 ---
@@ -50,6 +49,13 @@ Created a new dataframe **df_price** dropped null values by **df_Price.dropna(in
     i) LSTM 
     ii) Prediction of future S&P/ASX200 index future price for next 30 days.
     
+## **Analysis**
+
+---
+
+After choosing our data source and cleaning the data, the data was normalized using minmaxscaler to be between 0 and 1. Then the dataset was split between 70% training and 30% testing. Next, the data was sequenced with past 100 days of data and reshaped into 3D samples as it is required to be 3 dimensional for LSTM.
+
+ ![](images/1.PNG)
 
 
 

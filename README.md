@@ -74,5 +74,6 @@ While predicting the future 30 days index price, it was sequenced with 150 days 
 
 If our group was given extra time, the below listed are the improvements which could have been incorporated:
 
-i) Including more than one parameter to the LSTM model to see what would happen to the future 30 days index price predictions.
-ii) Link Natural Language Processing (NLP) to the LSTM model to see how the prices are affected with positive, negative or neutral NLP outcomes.
+    i) Including more than one parameter to the LSTM model to see what would happen to the future 30 days index price predictions.
+    
+    ii) Link Natural Language Processing (NLP) to the LSTM model to see how the prices are affected with positive, negative or neutral NLP outcomes.

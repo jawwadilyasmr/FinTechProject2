@@ -64,7 +64,7 @@ The optimized history of loss function is shown in the graph below. From the gra
 
 **Model Prediction of future 30 days S&P/ASX200 Index Price**
 
-While predicting the future 30 days index price, it was sequenced with 150 days instead of 100 days for better results and to lessen the gap. As seen in the graph below the price of index is expected to continously increase in the price for the next 30 days. The following result might not be accurate as the index prices are dependant on other internal and external factors besides their past performances based on close price. For example different parameters such as volumn or external factors such as global economy and policies might bring changes to the market movement. 
+While predicting the future 30 days index price, it was sequenced with 150 days instead of 100 days for better results and to lessen the gap. As seen in the graph below the price of index is expected to continously increase in the price for the next 30 days. The following result might not be accurate as the index prices are dependent on other internal and external factors besides their past performances based on close price. For example different parameters such as volumn or external factors such as global economy and policies might bring changes to the market movement. 
 
 ![](images/3.PNG) ![](images/4.PNG)
 

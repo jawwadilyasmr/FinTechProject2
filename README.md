@@ -17,7 +17,7 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
     i) The purpose of the project includes predicting the next 30 days (future) S&P/ASX200 prices using the past "close prices" through LSTM 
     ii) Predicting the market movement with certain accuracy.
     
-## Technologies
+## **Technologies**
 
 ---
 
@@ -33,7 +33,7 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
     
      
 
-## ** Choice of Data Source and Cleaning:**
+## **Choice of Data Source and Cleaning:**
 
 ---
 
@@ -43,7 +43,13 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
 
 ### **Cleaning Data**
 
-Created a new dataframe *df_price* dropped null values by *df_Price.dropna(inplace=True)* and checked for null values by *df_Price.dropna(inplace=True)*. 
+Created a new dataframe **df_price** dropped null values by **df_Price.dropna(inplace=True)** and checked for null values by **df_Price.dropna(inplace=True)**. 
+
+## Calculations
+  
+    i) LSTM 
+    ii) Prediction of future S&P/ASX200 index future price for next 30 days.
+    
 
 
 

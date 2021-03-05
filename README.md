@@ -55,11 +55,13 @@ Created a new dataframe **df_price** dropped null values by **df_Price.dropna(in
 
 After choosing our data source and cleaning the data, the data was normalized using minmaxscaler to be between 0 and 1. Then the dataset was split between 70% training and 30% testing. Next, the data was sequenced with past 100 days of data and reshaped into 3D samples as it is required to be 3 dimensional for LSTM. A LSTM model with a batch size of 64 and epochs of 130 were compiled using Keras and Tensorflow. To avoid data overfitting, dropout layer is added. The image below is the summary of the model:
 
- ![](images/1.PNG)
+
+![](images/1.PNG)
 
 **Model Performance**
 
 The optimized history of loss function is shown in the graph below. From the graph, it is evident that the loss function from the training data and real data has been minised and the gap between the two are really small or unnoticeable. This shows that the data is neither underfit or overfit. Also, the datasets training and testing provides a reasonable accuracy with good predictability. 
+
 ![](images/2.PNG)
 
 **Model Prediction of future 30 days S&P/ASX200 Index Price**

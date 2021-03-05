@@ -38,7 +38,7 @@ The [S&P/ASX200](https://www.commbank.com.au/articles/investing/things-to-know-a
 
 ### **Cleaning Data**
 
-Created a new dataframe >df_price> dropped null values by >df_Price.dropna(inplace=True)> and checked for null values by >df_Price.dropna(inplace=True)>
+Created a new dataframe <df_price> dropped null values by <df_Price.dropna(inplace=True)> and checked for null values by <df_Price.dropna(inplace=True)>
 
 
 

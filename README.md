@@ -1,3 +1,12 @@
+|**TEAM MEMBER**|**ROLE**|
+|----|----|
+|Ayesha Shreshta|ReadMe File and Presentation Deck Preparer|
+|Ivan Monte|ReadMe File and Presentation Deck Preparer|
+|Mohammad Jawwad Llyas|Team Lead, LSTM Coding and Anaysis Lead, Presentor|
+|Muhammad Al Mamun|Financial Interpretation and Analysis Lead|
+|Ovais Khan|Linear Regression Coding and Analysis Lead|
+
+
 # **ASX Index: 30 Days LSTM Predictions**
 
 ---

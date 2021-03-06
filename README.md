@@ -1,7 +1,7 @@
 |**TEAM MEMBER**|**ROLE**|
 |----|----|
-|Ayesha Shreshta|ReadMe File and Presentation Deck Preparer|
-|Ivan Monte|ReadMe File and Presentation Deck Preparer|
+|Ayesha Shreshta|ReadMe File and Presentation Deck Preparer, Researcher|
+|Ivan Monte|ReadMe File and Presentation Deck Preparer, Researcher|
 |Mohammad Jawwad Llyas|Team Lead, LSTM Coding and Anaysis Lead, Presentor|
 |Muhammad Al Mamun|Financial Interpretation and Analysis Lead|
 |Ovais Khan|Linear Regression Coding and Analysis Lead|
